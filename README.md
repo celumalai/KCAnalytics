@@ -7,3 +7,8 @@ This set of programs has the following features.
 3. Automation interface with Microsoft WORD to print the barcodes and other relevant details in a standard peel and stick label sheet format.
 
 This program is currently in use at multiple afterschool centers for student management and tracking.
+
+
+The Software User Documentation is recorded in the following video
+https://www.youtube.com/watch?v=rPtfmC9Gxs4&feature=youtu.be
+
